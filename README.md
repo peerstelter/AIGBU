@@ -39,7 +39,7 @@ Entwickelt für Arbeitssicherheitsbeauftragte, Betriebsleiter und HSE-Verantwort
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow?style=flat)
 ![License](https://img.shields.io/badge/Lizenz-Proprietär-red?style=flat)
 
-> Quellcode ist nicht öffentlich. Bei Interesse an einer Zusammenarbeit oder Pilotprojekt: [peer@peerstelter.de](mailto:peer@peerstelter.de)
+> Quellcode ist nicht öffentlich. Bei Interesse an einer Zusammenarbeit oder Pilotprojekt: [info@peerstelter.de](mailto:info@peerstelter.de)
 
 ---
 
