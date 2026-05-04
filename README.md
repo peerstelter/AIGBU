@@ -43,4 +43,4 @@ Entwickelt für Arbeitssicherheitsbeauftragte, Betriebsleiter und HSE-Verantwort
 
 ---
 
-**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peer-stelter-88371827b)
+**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peerstelter/)
